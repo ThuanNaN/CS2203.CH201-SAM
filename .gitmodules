@@ -1,12 +1,9 @@
-[submodule "segment-anything"]
-	path = segment-anything
+[submodule "src/sam"]
+	path = models/sam
 	url = https://github.com/facebookresearch/segment-anything.git
 [submodule "sam2"]
-	path = sam2
+	path = models/sam2
 	url = https://github.com/facebookresearch/sam2.git
 [submodule "sam3"]
-	path = sam3
+	path = models/sam3
 	url = https://github.com/facebookresearch/sam3.git
-[submodule "src/sam"]
-	path = src/sam
-	url = https://github.com/facebookresearch/segment-anything.git
